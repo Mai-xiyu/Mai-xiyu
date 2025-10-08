@@ -73,11 +73,11 @@
 
 - **Piglin Join WTO**  
   扩展猪灵交易行为，使其拥有类似村民的交易机制。  
-  （见你的 CurseForge 项目列表页面）
+  https://www.curseforge.com/minecraft/mc-mods/piglin-join-wto
 
 - **Beacon Anti Phantom**  
   在信标范围内阻止幻影生成，提升夜间生存体验。  
-  （见你的 CurseForge 项目列表页面）
+  https://www.curseforge.com/minecraft/mc-mods/beacon-anti-phantom
 
 - **Hour Clock 24**  
   将游戏昼夜周期与现实时间同步为 24 小时制。  
