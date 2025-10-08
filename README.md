@@ -1,75 +1,78 @@
-<div align="center">
-  <h1>
-    👋 Hi, I’m **Mai-xiyu** (麦_Mai-xiyu)
-  </h1>
-  <p>
-    来自新疆 | 网络工程专业（2024届）  
-    Minecraft MOD 制作者 / 开源爱好者  
-  </p>
-  <p>
-    <a href="https://www.mcmod.cn/author/29947.html"><img src="https://img.shields.io/badge/MCMod-CN-Author-29947-blue?style=for-the-badge" alt="MCMod.CN Author"/></a>
-    <a href="https://space.bilibili.com/1339435908"><img src="https://img.shields.io/badge/Bilibili-Space-1339435908-orange?style=for-the-badge" alt="Bilibili"/></a>
-    <a href="https://gitee.com/Mai-xiyu"><img src="https://img.shields.io/badge/Gitee-Mai-xiyu-red?style=for-the-badge" alt="Gitee"/></a>
-    <a href="https://github.com/Mai-xiyu"><img src="https://img.shields.io/badge/GitHub-Mai-xiyu-black?style=for-the-badge" alt="GitHub"/></a>
-    <a href="https://modrinth.com/user/Mai-xiyu"><img src="https://img.shields.io/badge/Modrinth-Mai-xiyu-green?style=for-the-badge" alt="Modrinth"/></a>
-    <a href="https://www.curseforge.com/members/Mai-xiyu/projects"><img src="https://img.shields.io/badge/CurseForge-Projects-lightgrey?style=for-the-badge" alt="CurseForge"/></a>
-    <a href="https://afdian.com/a/xiyu114514"><img src="https://img.shields.io/badge/Afdian-xiyu114514-ff69b4?style=for-the-badge" alt="Afdian"/></a>
-    <a href="https://x.com/MaiXiyu"><img src="https://img.shields.io/badge/X-@MaiXiyu-skyblue?style=for-the-badge" alt="X (Twitter)"/></a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://github.com/Mai-xiyu">
+    <img src="https://img.shields.io/badge/GitHub-Mai__xiyu-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://modrinth.com/user/Mai-xiyu">
+    <img src="https://img.shields.io/badge/Modrinth-Mai__xiyu-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth">
+  </a>
+  <a href="https://www.curseforge.com/members/Mai-xiyu/projects">
+    <img src="https://img.shields.io/badge/CurseForge-Mai__xiyu-F16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge">
+  </a>
+  <a href="https://www.mcmod.cn/author/182072.html">
+    <img src="https://img.shields.io/badge/MC百科-Mai__xiyu-2D9CDB?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjEyOCIgaGVpZ2h0PSIxMjgiIGZpbGw9IiMyRDlDREIiIHJ4PSIxNiIvPjwvc3ZnPg==" alt="MC百科">
+  </a>
+  <a href="https://space.bilibili.com/1339435908">
+    <img src="https://img.shields.io/badge/哔哩哔哩-Mai__xiyu-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="哔哩哔哩">
+  </a>
+  <a href="https://afdian.com/a/xiyu114514">
+    <img src="https://img.shields.io/badge/爱发电-Mai__xiyu-946CE6?style=for-the-badge&logo=afdian&logoColor=white" alt="爱发电">
+  </a>
+</p>
 
 ---
 
-## 🧩 关于我
+## 👋 关于我
 
-- 姓名 / 昵称：**Mai-xiyu** (麦_Mai-xiyu)  
-- 地点：新疆，中国  
-- 学校 / 专业：新疆师范大学 / 网络工程（2024届） :contentReference[oaicite:0]{index=0}  
-- 兴趣方向：Minecraft 模组开发 / 游戏工具 & 插件 / 开源项目  
-- 在 CurseForge 上拥有多个活跃项目（如 *Super Tools Reload* 等） :contentReference[oaicite:1]{index=1}  
+大家好！我是 **Mai-xiyu**，专注于 **Minecraft 服务器 / 服务端模组开发** 的开源创作者。  
+我致力于以 “纯服务端逻辑 + 可配置扩展性” 作为设计理念，为社区提供实用、有趣的模组体验。
 
 ---
 
-## 📦 我的作品 / 项目
+## 🌟 当前最受欢迎的模组
 
-以下是一些代表性的 MOD / 项目（尤其是 Minecraft 方向的）：
+**OneKeyMiner（Forge / NeoForge）**  
+[![CurseForge](https://img.shields.io/badge/CurseForge-FF4500?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/onekeyminer-nf)  
+[![Modrinth](https://img.shields.io/badge/Modrinth-28A745?logo=modrinth&logoColor=white)](https://modrinth.com/mod/onekeyminer_nf)  
+功能：按住键盘即可自动连锁挖掘 / 连锁种植，支持 Forge 与 NeoForge 两端逻辑。:contentReference[oaicite:10]{index=10}
 
-| 项目 | 简介 |
+---
+
+## 🧱 主要项目
+
+以下是我当前在 CurseForge / Modrinth 上比较活跃或下载量不错的几个模组：
+
+| 模组名称 | 简介 / 特色 |
 |---|---|
-| **Super Tools Reload** | 增加强大工具与物品，扩展 Minecraft 的功能性与便利性 :contentReference[oaicite:2]{index=2} |
-| **OneKeyMiner (Neo / Forge / Fabric)** | 支持连锁开采、连锁种植等功能，提升挖矿效率 :contentReference[oaicite:3]{index=3} |
-| **Beacon Anti Phantom** | 用于禁止幻影（Phantom）生成的工具 / 功能 mod :contentReference[oaicite:4]{index=4} |
-| **Piglin Join WTO** | 使 Piglin 能像村民一样进行贸易的 mod :contentReference[oaicite:5]{index=5} |
-| **其他模块 / 工具** | CreativePlus、Xiyu’s Lucky Block、Enchantment Harmony 等多个项目 :contentReference[oaicite:6]{index=6} |
+| **OneKeyMiner（Forge / NeoForge）** | 支持连锁挖矿、连锁种植、耐久保护等；主力模组之一。:contentReference[oaicite:11]{index=11} |
+| **OneKeyMiner Chainable Visuals** | 客户端侧视觉扩展，为 OneKeyMiner 提供链挖目标高亮显示功能。:contentReference[oaicite:12]{index=12} |
+| **Super Tools Reload** | 增加大量强力工具 / 装备 / 食物 / 区块属性等内容，拓展玩法深度。:contentReference[oaicite:13]{index=13} |
+| **Enchantment Harmony** | 让附魔系统的互斥关系可通过配置自定义，提高附魔自由度。:contentReference[oaicite:14]{index=14} |
+| **Xiyu’s Enchanted Book** | 一个附魔书方向的模组，部分逻辑在服务端，客户端用资源包显示。:contentReference[oaicite:15]{index=15} |
+| **Piglin Join WTO** | 使猪灵拥有像村民那样的交易机制，扩展原版行为。:contentReference[oaicite:16]{index=16} |
+| **Beacon Anti Phantom** | 在信标范围内禁止幻影生成，增强生存安全性。:contentReference[oaicite:17]{index=17} |
+| **Hour Clock 24** | 将游戏昼夜周期同步现实时间，支持 24 小时模式。:contentReference[oaicite:18]{index=18} |
+| **Xiyu’s Lucky Block** | 一个高度可定制的幸运方块模组，允许用户定义事件 / 掉落规则。:contentReference[oaicite:19]{index=19} |
+| **Spawn Egg Preview** | 客户端视觉模组，将刷怪蛋展示为实体模型以提升识别性。:contentReference[oaicite:20]{index=20} |
 
-（你可以把你所有的项目、统计下载量、最新版本等信息补上）
-
----
-
-## 📫 联系 / 支持我
-
-- MCMod.CN 个人主页：<https://www.mcmod.cn/author/29947.html>  
-- B 站空间：<https://space.bilibili.com/1339435908>  
-- Gitee：<https://gitee.com/Mai-xiyu>  
-- GitHub：<https://github.com/Mai-xiyu>  
-- Modrinth 用户页：<https://modrinth.com/user/Mai-xiyu>  
-- CurseForge 项目列表：<https://www.curseforge.com/members/Mai-xiyu/projects>  
-- 爱发电（支持平台）：<https://afdian.com/a/xiyu114514>  
-- X 帐号：<https://x.com/MaiXiyu>  
-
-欢迎通过以上方式关注 / 支持 / 提建议 👍
+> ⚠️ 你可以在这些基础上删减 / 补充项目，调整排序或突出你认为最重要的几个。
 
 ---
 
-## 🚀 我希望实现的 / 未来方向
+## 📫 联系我 & 支持
 
-- 持续开发更多实用且创新的 Minecraft 模组  
-- 拓展到更多游戏平台 / 工具 /插件  
-- 提升代码质量 / 可维护性 / 跨平台适配  
-- 与社区共同合作，推动开源项目发展  
+- Bilibili：<https://space.bilibili.com/1339435908>  
+- 爱发电：<https://afdian.com/a/xiyu114514>  
+- 邮箱：可见于 GitHub 主页  
+
+---
+
+## 🧡 致谢与声明
+
+- 模组统一署名 **Mai-xiyu / Arc Studio**  
+- 欢迎社区使用、反馈、二次创作（但请保留署名并遵守 License）  
+- 感谢所有用户的支持与反馈，让这些项目得以成长  
 
 ---
 
-> “兴趣是最好的老师，开源是最好的分享。”  
-
----
+如果你愿意，我可以根据这些模组信息，帮你填充每个模组的下载量、最新版本、特色截图等，做一个更加丰富的 README。要不我现在给你做那版？
+::contentReference[oaicite:21]{index=21}
