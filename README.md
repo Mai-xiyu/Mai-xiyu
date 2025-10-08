@@ -37,9 +37,9 @@
 ---
 
 ## 🌟 当前主打与热门模组
-
-[CurseForge - OneKeyMiner (NF)](https://www.curseforge.com/minecraft/mc-mods/onekeyminer-nf)  
-[Modrinth - OneKeyMiner (NF)](https://modrinth.com/mod/onekeyminer_nf)
+**OneKeyMiner (Neo / Forge / Fabric)**
+[![CurseForge](https://img.shields.io/badge/CurseForge-FF4500?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/onekeyminer-nf)
+[![Modrinth](https://img.shields.io/badge/Modrinth-28A745?logo=modrinth&logoColor=white)](https://modrinth.com/mod/onekeyminer_nf)
 
 **OneKeyMiner (Neo / Forge / Fabric)** — 连锁挖掘 / 连锁种植功能，支持多平台，是目前最受欢迎的模组。
 
