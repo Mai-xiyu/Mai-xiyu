@@ -46,7 +46,7 @@
 
 ## 🧱 代表项目（已发布于 CurseForge / Modrinth）
 
-以下条目基于你在 CurseForge 与 Modrinth 平台的公开项目列表：
+以下条目基于我在 CurseForge 与 Modrinth 平台的公开项目列表：
 
 - **OneKeyMiner (Neo / Forge / Fabric)**  
   支持连锁挖掘与连锁种植，兼顾性能与可配置性。  
