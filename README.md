@@ -1,114 +1,92 @@
-# 🌌 Mai_xiyu
+<div align="center">
 
-🎮 Minecraft 模组作者 | 💻 技术探索者 | 🎨 Arc Studio 成员  
-专注于 NeoForge / Forge 服务端模组与游戏工具的开发。  
-偏好：纯服务端实现、高可配置性、性能优先。
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Minecraft+Mod+Developer;Java+%2F+C%2B%2B+Enthusiast;NeoForge+Ecosystem+Contributor;Server-side+Performance+Expert" alt="Typing SVG" />
 
----
+  <p>
+    <a href="https://github.com/Mai-xiyu">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    </a>
+    <a href="https://modrinth.com/user/Mai_xiyu">
+      <img src="https://img.shields.io/badge/Modrinth-1bd96a?style=flat&logo=modrinth&logoColor=white" />
+    </a>
+    <a href="https://www.curseforge.com/members/mai_xiyu/projects">
+      <img src="https://img.shields.io/badge/CurseForge-F16436?style=flat&logo=curseforge&logoColor=white" />
+    </a>
+    <a href="https://space.bilibili.com/1339435908">
+      <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white" />
+    </a>
+  </p>
+  
+  <br/>
 
-<p align="center">
-  <a href="https://github.com/Mai-xiyu">
-    <img src="https://img.shields.io/badge/GitHub-Mai__xiyu-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://modrinth.com/user/Mai_xiyu">
-    <img src="https://img.shields.io/badge/Modrinth-Mai__xiyu-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth">
-  </a>
-  <a href="https://www.curseforge.com/members/mai_xiyu/projects">
-    <img src="https://img.shields.io/badge/CurseForge-Mai__xiyu-F16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge">
-  </a>
-  <a href="https://www.mcmod.cn/author/29947.html">
-    <img src="https://img.shields.io/badge/MCMod.CN-作者-2D9CDB?style=for-the-badge" alt="MCMod.CN">
-  </a>
-  <a href="https://space.bilibili.com/1339435908">
-    <img src="https://img.shields.io/badge/哔哩哔哩-Mai__xiyu-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
-  </a>
-  <a href="https://afdian.com/a/xiyu114514">
-    <img src="https://img.shields.io/badge/爱发电-Mai__xiyu-946CE6?style=for-the-badge&logo=afdian&logoColor=white" alt="爱发电">
-  </a>
-</p>
+</div>
 
 ---
 
-## 👋 关于我
+### Git Stats
 
-我是 **Mai_xiyu**，长期从事 Minecraft 服务端模组开发与游戏工具制作。  
-技术栈主要为 Java（Minecraft mod）、偶尔涉及 C/C++ 与 Qt 桌面开发。我的作品注重实用性与可配置性，部分项目以服务器端逻辑为主，便于直接在服务器上部署而无需客户端改动。
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mai-xiyu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="Mai-xiyu's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mai-xiyu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Mai-xiyu's Top Langs" />
+</div>
 
----
+<br/>
 
-## 🌟 当前主打与热门模组
-[![CurseForge](https://img.shields.io/curseforge/dt/1078620?label=CurseForge&color=FF4500&logo=none)](https://www.curseforge.com/minecraft/mc-mods/onekeyminer-nf)
-[![Modrinth Downloads](https://img.shields.io/modrinth/dt/onekeyminer_nf?label=Modrinth&color=28A745&logo=modrinth&logoColor=white)](https://modrinth.com/mod/onekeyminer_nf)
+### Tech Stack
 
-**OneKeyMiner (Neo / Forge / Fabric)** — 连锁挖掘 / 连锁种植功能，支持多平台，是目前最受欢迎的模组。
-
----
-
-## 🧱 代表项目（已发布于 CurseForge / Modrinth）
-
-以下条目基于我在 CurseForge 与 Modrinth 平台的公开项目列表：
-
-- **OneKeyMiner (Neo / Forge / Fabric)**  
-  支持连锁挖掘与连锁种植，兼顾性能与可配置性。  
-  https://www.curseforge.com/minecraft/mc-mods/onekeyminer-nf  
-  https://modrinth.com/mod/onekeyminer_nf
-
-- **OneKeyMiner Chainable Visuals**  
-  为 OneKeyMiner 提供客户端视觉高亮（目标块高亮显示）。  
-  https://www.curseforge.com/minecraft/mc-mods/onekeyminer-chainable-visuals  
-  https://modrinth.com/mod/onekeyminer-chainable-visuals
-
-- **Super Tools Reload**  
-  扩展各类工具、装备与玩法内容。  
-  https://modrinth.com/mod/super-tools-reload
-
-- **Enchantment Harmony**  
-  自定义附魔互斥与兼容规则，提升附魔系统灵活性。  
-  https://modrinth.com/mod/enchantment-harmony
-
-- **xiyu’s Enchanted Books**  
-  附魔书相关功能扩展（可配置）。  
-  https://modrinth.com/mod/xiyus-enchanted-book  
-  https://www.curseforge.com/minecraft/mc-mods/xiyus-enchanted-books
-
-- **Piglin Join WTO**  
-  扩展猪灵交易行为，使其拥有类似村民的交易机制。  
-  https://www.curseforge.com/minecraft/mc-mods/piglin-join-wto
-
-- **Beacon Anti Phantom**  
-  在信标范围内阻止幻影生成，提升夜间生存体验。  
-  https://www.curseforge.com/minecraft/mc-mods/beacon-anti-phantom
-
-- **Hour Clock 24**  
-  将游戏昼夜周期与现实时间同步为 24 小时制。  
-  https://modrinth.com/mod/hour-clock-24
-
-- **Spawn Egg Preview**  
-  客户端视觉模组，刷怪蛋在物品栏显示为实体模型。  
-  https://www.curseforge.com/minecraft/mc-mods/spawn-egg-preview
-
-- **I Want to Spin**  
-  添加特定动作机制（演示/趣味性项目）。  
-  https://www.curseforge.com/minecraft/mc-mods/i-want-to-spin
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,qt,gradle,maven,git,idea,vscode,linux&theme=dark" />
+  </a>
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/NeoForge-EA9926?style=for-the-badge&logo=curseforge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Minecraft_Forge-DF904D?style=for-the-badge&logo=curseforge&logoColor=white" />
+</div>
 
 ---
 
-## 📫 联系与关注
+### Featured Works
 
-- MCMod.CN（作者页）：https://www.mcmod.cn/author/29947.html  
-- Bilibili： https://space.bilibili.com/1339435908  
-- Gitee： https://gitee.com/god_xiyu  
-- GitHub： https://github.com/Mai-xiyu  
-- Modrinth： https://modrinth.com/user/Mai_xiyu  
-- CurseForge： https://www.curseforge.com/members/mai_xiyu/projects  
-- 爱发电： https://afdian.com/a/xiyu114514  
-- X： https://x.com/MaiXiyu
+> **Philosophy**: `Performance` > `Configurability` > `Features`
+
+| 项目 (Project) | 技术栈 (Stack) | 状态 (Build) | 简介 (Description) |
+| :--- | :---: | :---: | :--- |
+| **[OneKeyMiner](https://modrinth.com/mod/onekeyminer_nf)** | `Java` `Forge/Neo` | ![Downloads](https://img.shields.io/modrinth/dt/onekeyminer_nf?label=&color=28A745&style=flat-square) | **旗舰项目**。高性能连锁挖掘/种植，全平台兼容，极致的服务端优化。 |
+| **[Piglin Join WTO](https://www.curseforge.com/minecraft/mc-mods/piglin-join-wto)** | `AI Logic` `Mixin` | ![Downloads](https://img.shields.io/curseforge/dt/piglin-join-wto?label=&color=F16436&style=flat-square) | **行为重构**。让猪灵拥有复杂的经济交易系统，扩展游戏后期玩法。 |
+| **[Beacon Anti Phantom](https://www.curseforge.com/minecraft/mc-mods/beacon-anti-phantom)** | `Event System` | ![Downloads](https://img.shields.io/curseforge/dt/beacon-anti-phantom?label=&color=F16436&style=flat-square) | **机制优化**。利用信标力场拦截幻影生成，解决服务器夜间生存痛点。 |
+| **[Hour Clock 24](https://modrinth.com/mod/hour-clock-24)** | `Time Algo` | ![Downloads](https://img.shields.io/modrinth/dt/hour-clock-24?label=&color=28A745&style=flat-square) | **算法同步**。将 Minecraft 刻度时间与现实 24 小时制动态映射。 |
 
 ---
 
-## 致谢与声明
+### Repositories
 
-所有模组与创作署名 **Mai_xiyu / Arc Studio**。  
-欢迎反馈、建议与合作；使用或二次创作请保留署名并遵守各项目的授权许可。
+<details>
+<summary><b>点击展开查看完整列表 (Click to expand)</b></summary>
+<br>
 
-© 2025 Mai_xiyu
+* **性能优化与工具**
+    * [OneKeyMiner Chainable Visuals](https://modrinth.com/mod/onekeyminer-chainable-visuals) - 客户端视觉高亮扩展
+    * [Spawn Egg Preview](https://www.curseforge.com/minecraft/mc-mods/spawn-egg-preview) - 刷怪蛋实体预览渲染
+
+* **游戏性扩展**
+    * [Super Tools Reload](https://modrinth.com/mod/super-tools-reload) - 增强型工具库
+    * [Enchantment Harmony](https://modrinth.com/mod/enchantment-harmony) - 附魔冲突自定义引擎
+    * [xiyu’s Enchanted Books](https://modrinth.com/mod/xiyus-enchanted-book) - 附魔书机制大修
+
+</details>
+
+---
+
+<div align="center">
+  <p>
+    Connect with me: 
+    <a href="https://x.com/MaiXiyu">Twitter/X</a> • 
+    <a href="https://afdian.com/a/xiyu114514">Afdian</a> • 
+    <a href="https://www.mcmod.cn/author/29947.html">MCMod.CN</a>
+  </p>
+  
+  <img src="https://github.com/Mai-xiyu/Mai-xiyu/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  
+  <p><sub>© 2025 Mai_xiyu / Arc Studio.</sub></p>
+</div>
