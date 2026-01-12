@@ -26,7 +26,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mai-xiyu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Mai-xiyu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github.com/Mai-xiyu/Mai-xiyu/blob/metrics/github-metrics.svg" alt="Metrics" width="100%">
   <br/>
   <img src="https://raw.githubusercontent.com/Mai-xiyu/Mai-xiyu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Dark" style="max-width: 100%;" />
 </div>
