@@ -32,7 +32,7 @@
 </div>
 <div align="center">
   <h3>🏗️ Building History</h3>
-  <img src="https://github.com/Mai-xiyu/Mai-xiyu/blob/metrics/isocalendar.svg" alt="Isometric Graph" width="100%">
+  <img src="https://raw.githubusercontent.com/Mai-xiyu/Mai-xiyu/metrics/isocalendar.svg" alt="Isometric Graph" width="100%">
 </div>
 <br/>
 
