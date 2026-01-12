@@ -1,10 +1,10 @@
 name: Metrics
 on:
-  # Schedule daily updates
+  # 每天运行一次
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  # 允许手动运行
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
+  # push 到 main 分支时触发 (测试用)
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -14,15 +14,19 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # 必须配置：将生成的图片推送到独立分支 'metrics'，保持主分支干净
+          filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          
-          # Options
+          committer_branch: metrics
+          committer_message: "Update metrics dashboard"
+
+          # 基础配置
           user: Mai-xiyu
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           
-          # 插件：语言分析 (很酷的语言分布条)
+          # 🧩 插件：语言分析 (显示你是个硬核 Java/C++ 玩家)
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
@@ -30,14 +34,13 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_colors: "github"
-          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_details: lines, percentage
           
-          # 插件：Isometric 3D 日历 (看起来像 Minecraft 方块！)
+          # 🏗️ 插件：Isometric 3D 日历 (你的最爱，像 Minecraft 方块)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # 插件：成就 (比 Trophies 更简洁)
+          # 🏆 插件：成就系统
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+          plugin_achievements_threshold: B
