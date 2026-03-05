@@ -44,40 +44,7 @@
   <img src="https://img.shields.io/badge/Minecraft_Forge-DF904D?style=flat-square&logo=curseforge&logoColor=white" />
 </div>
 
----
 
-### Featured Works
-
-<div align="center">
-
-| 项目 (Project) | 技术栈 (Stack) | 下载量 (Downloads) | 简介 (Description) |
-| :--- | :---: | :---: | :--- |
-| **[OneKeyMiner](https://modrinth.com/mod/onekeyminer_nf)** | `Java`<br>`Forge/Neo` | ![Downloads](https://img.shields.io/modrinth/dt/onekeyminer_nf?label=&color=28A745&style=flat-square) | **旗舰项目**。高性能连锁挖掘/种植，全平台兼容，极致的服务端优化。 |
-| **[Piglin Join WTO](https://www.curseforge.com/minecraft/mc-mods/piglin-join-wto)** | `AI Logic`<br>`Mixin` | ![Downloads](https://img.shields.io/curseforge/dt/1329114?label=&color=F16436&style=flat-square) | **行为重构**。让猪灵拥有复杂的经济交易系统，扩展游戏后期玩法。 |
-| **[Beacon Anti Phantom](https://www.curseforge.com/minecraft/mc-mods/beacon-anti-phantom)** | `Event System` | ![Downloads](https://img.shields.io/curseforge/dt/1308148?label=&color=F16436&style=flat-square) | **机制优化**。利用信标力场拦截幻影生成，解决服务器夜间生存痛点。 |
-| **[Hour Clock 24](https://modrinth.com/mod/hour-clock-24)** | `Time Algo` | ![Downloads](https://img.shields.io/modrinth/dt/hour-clock-24?label=&color=28A745&style=flat-square) | **算法同步**。将 Minecraft 刻度时间与现实 24 小时制动态映射。 |
-
-</div>
-
-
----
-
-### Repositories
-
-<details>
-<summary><b>点击展开查看完整列表 (Click to expand)</b></summary>
-<br>
-
-* **⚡ 性能优化与工具**
-    * [OneKeyMiner Chainable Visuals](https://modrinth.com/mod/onekeyminer-chainable-visuals) - 连锁挖矿客户端视觉高亮扩展
-    * [Spawn Egg Preview](https://www.curseforge.com/minecraft/mc-mods/spawn-egg-preview) - 刷怪蛋实体预览渲染
-
-* **⚔️ 游戏性扩展**
-    * [Super Tools Reload](https://modrinth.com/mod/super-tools-reload) - 超级武器
-    * [Enchantment Harmony](https://modrinth.com/mod/enchantment-harmony) - 附魔冲突自定义
-    * [xiyu’s Enchanted Books](https://modrinth.com/mod/xiyus-enchanted-book) - Mai_xiyu的附魔书
-
-</details>
 
 ---
 
