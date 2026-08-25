@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&lines=Minecraft+Mod+Developer;Java+%2F+C%2B%2B+Enthusiast;NeoForge+Ecosystem+Contributor;Server-side+Performance+Expert" alt="Typing SVG" />
-
   <p>
     <a href="https://github.com/Mai-xiyu">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -19,42 +17,69 @@
 
 </div>
 
----
+<details>
+  <summary><b>⚠ Developer identity verification required</b></summary>
 
-### Git Stats
+  <br>
+
+  <div align="center">
+    <img src="./nice.gif" width="560" alt="Verification Result" />
+    <br>
+    <sub>Identity verification completed successfully.</sub>
+  </div>
+
+</details>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mai-xiyu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <br/>
-  <!-- <img src="https://raw.githubusercontent.com/Mai-xiyu/Mai-xiyu/metrics/github-metrics.svg" alt="Metrics Dashboard" width="100%">
-  <br/> -->
-  <img src="https://raw.githubusercontent.com/Mai-xiyu/Mai-xiyu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Dark" style="max-width: 100%;" />
-</div>
-<br/>
 
-### Tech Stack
-
-<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,qt,gradle,maven,git,idea,vscode,linux&theme=dark" />
   </a>
-  <br/>
-  <br/>
+
+  <br>
+  <br>
+
   <img src="https://img.shields.io/badge/NeoForge-EA9926?style=flat-square&logo=curseforge&logoColor=white" />
   <img src="https://img.shields.io/badge/Minecraft_Forge-DF904D?style=flat-square&logo=curseforge&logoColor=white" />
+
 </div>
 
+<br>
 
+<details>
+  <summary><b>Git Stats</b></summary>
 
----
+  <br>
+
+  <div align="center">
+
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mai-xiyu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+    <br>
+    <br>
+
+    <img src="https://raw.githubusercontent.com/Mai-xiyu/Mai-xiyu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Dark" width="100%" />
+
+  </div>
+
+</details>
+
+<br>
 
 <div align="center">
-  <p>
-    Connect with me: 
-    <a href="https://x.com/MaiXiyu">Twitter/X</a> • 
-    <a href="https://afdian.com/a/xiyu114514">Afdian</a> • 
+
+  <sub>
+    <a href="https://x.com/MaiXiyu">Twitter/X</a>
+    ·
+    <a href="https://afdian.com/a/xiyu114514">Afdian</a>
+    ·
     <a href="https://www.mcmod.cn/author/29947.html">MCMod.CN</a>
-  </p>
-  
-  <p><sub>© 2025 Mai_xiyu / Arc Studio.</sub></p>
+  </sub>
+
+  <br>
+
+  <sub>© 2026 Mai_xiyu / Arc Studio.</sub>
+
 </div>
