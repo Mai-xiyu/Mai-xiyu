@@ -1,3 +1,5 @@
+# 各位就别关注我了，那个项目是被AI伪造Commit提交搞得，是有人诬陷我，原作者我也不知道是谁，但肯定有预谋
+
 <div align="center">
 
 <a href="https://github.com/Mai-xiyu">
