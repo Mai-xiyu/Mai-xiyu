@@ -63,7 +63,7 @@
 <div align="center">
 
 <sub>
-<a href="https://x.com/MaiXiyu">Twitter/X</a>
+<a href="https://x.com/mai_xiyu">Twitter/X</a>
 ·
 <a href="https://afdian.com/a/xiyu114514">Afdian</a>
 ·
