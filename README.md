@@ -72,6 +72,6 @@
 
 <br>
 
-<sub>© 2026 Mai-xiyu / Arc Studio.</sub>
+<sub>© 2026 Mai-xiyu.</sub>
 
 </div>
